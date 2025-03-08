@@ -50,7 +50,4 @@ pip install -r requirements.txt
 - Deployment of the model as a **web API or application**.
 
 ## **Contributors**
-- [Your Name]
-
-## **License**
-This project is open-source under the [MIT License](LICENSE).
+- Weko Abbror
